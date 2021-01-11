@@ -1,0 +1,16 @@
+{
+  "name": "cart",
+  "version": "1.0.0",
+  "description": "My first attempt at a simple application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ajay Karatam",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.0.0",
+    "react": "^16.13.1"
+  },
+  "Theme": "dark"
+}
